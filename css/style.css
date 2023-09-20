@@ -1,0 +1,147 @@
+.body{
+    margin: 0;
+}
+.top{
+    background-color: #F6F5F4;
+}
+.main{
+    color: black;
+    font-size: 20,86;
+    justify-content: left;
+}
+.words{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    font-family: Montserrat;
+}
+.links{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+.name{
+    color: #757575;
+
+}
+.txt{
+    color: #757575;
+}
+.txt_w{
+    color: black;
+}
+/* intro */
+.intro{
+    background-color: #fff;
+}
+
+.wraper{
+    display: flex;
+    justify-content: space-around;
+}
+
+.title__text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+.intro__title{
+    margin-bottom: 16px;
+}
+.title{
+    color: #2B788B;
+    font-size: 16px;
+}
+.text{
+    font-size: 56px;
+    font-weight: 800;
+}
+.text_w{
+    font-size: 18px;
+    color: #757575;
+
+}
+.container{
+    background-color: #F6F5F4;
+
+}
+.linker{
+    font-family: Montserrat;
+    font-weight: 800;
+    color: #2B788B;
+    font-size: 16px;
+    margin: 0;
+
+
+}
+.linker_block{
+    width: 110px;
+    background: #C3DCE3;
+    padding: 18px 52px;
+    border-radius: 100px;
+
+}
+/* pre last section */
+.pre__last{
+    background-color: #fff;
+}
+.last__wrap{
+    display: flex;
+    
+    justify-content: space-around;
+    
+}
+
+.title__text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+.main__text{
+    font-size: 56px;
+    font-weight: 800;
+}
+.lower__text{
+    font-size: 18px;
+    color: #757575;
+
+}
+
+.last_last_link{
+    font-family: Montserrat;
+    font-weight: 800;
+    color: #2B788B;
+    font-size: 16px;
+    margin: 0;
+}
+.last_linker_block{
+    width: 110px;
+    background: #C3DCE3;
+    padding: 18px 52px;
+    border-radius: 100px;
+
+}
+/* last uraaaaa */
+.last__section{
+    background-color: #F6F5F4;
+}
+
+.linkk{
+    color: #757575;
+    display: flex;
+    justify-content: space-around;
+}
+.linkkk{
+    color: #757575;
+    display: flex;
+
+}
+.ura{
+    display: flex;
+    
+}
